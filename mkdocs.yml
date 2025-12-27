@@ -1,7 +1,8 @@
 site_name: Django Kit Pro
-site_url: https://replimatic.com/docs/djangokitpro
+site_url: https://docs.replimatic.com/djangokitpro/
 site_description: Django Starter Kit – Technical Documentation
 site_author: Replimatic
+use_directory_urls: true
 
 repo_name: rajsolodev/djangokitprodoc
 repo_url: https://github.com/rajsolodev/djangokitprodoc
@@ -128,8 +129,10 @@ extra:
       link: https://linkedin.com/in/rajsolodev
     - icon: fontawesome/brands/github
       link: https://github.com/rajsolodev
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/rajsolodev
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/rajsolodev
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@uncutcoding
 
   generator: false
 
