@@ -3,7 +3,6 @@
 Supported providers:
 
 - Dodo Payments
-- Stripe (integration-ready)
 
 ## Payment Flow
 
